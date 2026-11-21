@@ -1,0 +1,6 @@
+id,nombre,carrera,nota,fecha_ingreso,activo
+1,Ana Pérez,Informática,18.5,2024-01-15,si
+2,Luis Gómez,Sistemas,15,2023-09-01,si
+3,"Martínez, Carla",Informática,19.25,2024-01-15,no
+4,José Rodríguez,Electrónica,12.75,2022-09-05,si
+5,"María ""Mari"" López",Sistemas,,2023-09-01,si

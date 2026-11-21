@@ -1,0 +1,13 @@
+# Salida de compilación de IntelliJ
+out/
+bin/
+*.class
+
+# Configuración local de IntelliJ (se genera en cada computadora)
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
